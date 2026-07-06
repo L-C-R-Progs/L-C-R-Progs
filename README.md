@@ -32,22 +32,21 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=L-C-R-Progs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-C-R-Progs&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔥 Sequência de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=L-C-R-Progs&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📫 Contato
 
-* GitHub: https://github.com/SEU_USUARIO
-* LinkedIn: (adicione seu perfil, se possuir)
-* E-mail: (opcional)
+* GitHub: https://github.com/L-C-R-Progs
+* E-mail: lucasrosabr2022@gmail.com
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Estou sempre aprendendo, evoluindo e compartilhando novos projetos.
+⭐ Obrigado por visitar meu perfil! Estou sempre aprendendo e evoluindo.
