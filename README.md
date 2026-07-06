@@ -29,19 +29,6 @@ Seja bem-vindo ao meu perfil! Sou apaixonado por tecnologia e estou sempre em bu
 
 Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de programação e ideias colocadas em prática para aprimorar minhas habilidades.
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=L-C-R-Progs&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-C-R-Progs&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🔥 Sequência de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=L-C-R-Progs&theme=tokyonight&hide_border=true"/>
-</p>
-
 ## 📫 Contato
 
 * GitHub: https://github.com/L-C-R-Progs
