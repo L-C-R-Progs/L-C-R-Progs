@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou o Lucas Rosa!
+<p align="center">
+  <img src="https://giphy.com/gifs/animatr-anime-aesthetic-sakura-tree-windy-8gOtTSdJk6Y6jw3nNV" width="400">
+</p>
+
+## 👋 Olá, eu sou o Lucas Rosa!
 
 🎓 *Estudante do Ensino Médio com curso Técnico em Informática Integrado*
 
