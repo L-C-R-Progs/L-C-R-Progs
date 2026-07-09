@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/animatr-anime-aesthetic-sakura-tree-windy-8gOtTSdJk6Y6jw3nNV" width="400">
+  <img src="https://giphy.com/gifs/animatr-anime-gif-aesthetic-cup-BMu2SwuXflOlQP8jTC" width="400">
 </p>
 
 ## 👋 Olá, eu sou o Lucas Rosa!
