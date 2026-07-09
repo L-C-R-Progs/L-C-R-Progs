@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeHFheGRsaGttNDV1czY1c3A3d3dmaWFzYjFvdGJtOGxocHNoanFyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Yg16nkCjjn6eVMI/giphy.gif" width="100%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyY2RoNHJlNGhsaWpvaGxqNzc5ZjA2Y2tqajl1ZGJuaHVrbTE2a2VtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Ye7CiFf0OvUaJ82A2/giphy.gif" width="100%">
 </p>
 
 ## 👋 Olá, eu sou o Lucas Rosa!
