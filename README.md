@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="172" height="200" alt="image" src="https://github.com/user-attachments/assets/f6d5e7f4-3dc2-4dcc-b284-6c01ecdcb494" />
-" width="400">
+  <img src="https://giphy.com/gifs/animatr-anime-gif-garden-of-words-aesthetic-1Ye7CiFf0OvUaJ82A2" width="400">
 </p>
 
 ## 👋 Olá, eu sou o Lucas Rosa!
