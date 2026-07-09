@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/animatr-anime-gif-aesthetic-cup-BMu2SwuXflOlQP8jTC" width="400">
+  <img src="<img width="172" height="200" alt="image" src="https://github.com/user-attachments/assets/f6d5e7f4-3dc2-4dcc-b284-6c01ecdcb494" />
+" width="400">
 </p>
 
 ## 👋 Olá, eu sou o Lucas Rosa!
