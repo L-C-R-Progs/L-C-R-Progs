@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/animatr-anime-gif-garden-of-words-aesthetic-1Ye7CiFf0OvUaJ82A2" width="400">
+  <img src="https://giphy.com/gifs/animatr-8F62ttKOw1FlXLn0QC" width="400">
 </p>
 
 ## 👋 Olá, eu sou o Lucas Rosa!
